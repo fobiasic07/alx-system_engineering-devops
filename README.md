@@ -1,1 +1,2 @@
-This is my second repository to learn Shell basics
+#!/bin/bash
+This directory is for shell basics
