@@ -1,0 +1,2 @@
+#!/bin/baash
+head -3iacta | tail -1
