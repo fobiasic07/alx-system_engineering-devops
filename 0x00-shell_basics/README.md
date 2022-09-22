@@ -18,6 +18,9 @@ File | Description
 [10-back](./10-back) | Changes current directory to previous working directory.
 [11-lists](./11-lists) | Lists all files including hidden files in working directory, parent directory and in /boot directory in long format.
 [12-file_type](./12-file_type) | Shows the type of file that /tmp/iamafile is.
-[13-symbolic_link](./13-symbolic_link) | Cretes link to 
+[13-symbolic_link](./13-symbolic_link) | Cretes symbolic link between current directory and file in different directory. 
 [14-copy_html](./14-copy_html) | Copies all html files from working directory to parent directory updating the existing ones and adding the newer ones.
- 
+[100-lets_move](./100-lets_move) | Moves all files in current directoy that start with an uppercase letter to different directory.
+[101-clean_emacs](./101-clean_emacs) | Deletes all files geneated by emacs which end with a '~'.
+[102-tree](./102-tree) | Makes multiple non existing subdirectories within a non-existing directory.
+[103-commas](./103-commas) | Lists all files and directories in directory in numerical-alphabetical order while appending '/' to directories.
