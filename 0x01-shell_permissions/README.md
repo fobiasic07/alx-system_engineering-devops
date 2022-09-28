@@ -19,3 +19,5 @@ File | Description
 [12-directory_permissions](./12-directory_permissions) | creates a directory my_dir with permissions 751.
 [13-change_group](./13-change_group) | Changes group owner to school for the file hello.
 [100-change_owner_and_group](./100-xhange_owner_and_group) | changes owner to vincent and group owner to staff.
+[101-symbolic_link_permissions](./101-symbolic_link_permissions) | Changes owner and group owners to vincent and staff respectively for the link _hello_.
+[102-if_only](./102-if_only) | This changes owner of file hello to betty if only the owner is guillaume.
