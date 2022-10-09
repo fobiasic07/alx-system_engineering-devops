@@ -1,2 +1,2 @@
 #!/bin/baash
-head -3iacta | tail -1
+head -3 iacta | tail -1 iacta
